@@ -1,4 +1,4 @@
-# mohammedarbazkhan2
+
 <h1 align="center">Hi 👋, I'm MOHAMMED ARBAZ</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
